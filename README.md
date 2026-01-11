@@ -44,7 +44,7 @@ The goal is to demonstrate:
 1. Clone or download this repository.  
 2. Open the **data** folder to explore raw and cleaned datasets.  
 3. Explore pivot tables and charts in the **analysis** folder.  
-4. View the full report in `report/Lettuce_Growth_Analysis.docx` for methodology, results, and insights.  
+4. View the full report in `Lettue growth analysis/Report/Environmental impact on lettuce growth.docx` for methodology, results, and insights.  
 
 ---
 
